@@ -1,4 +1,4 @@
-README: Ransomware
+#README: Ransomware
 
 IMPORTANT: Read and Proceed at Your Own Risk
 
@@ -29,3 +29,8 @@ Disclaimer:
 The author(s) of this document, OpenAI, and its affiliates assume no responsibility or liability for any actions, damages, or consequences resulting from the misuse, misinterpretation, or illegal use of the information provided herein. Users should exercise caution, act responsibly, and respect legal and ethical boundaries when dealing with ransomware or any other form of malicious software.
 
 Remember, knowledge about ransomware should be used to protect and secure computer systems, not to compromise or harm them. Stay informed, stay safe, and prioritize ethical behavior in all your endeavors.
+
+How to run? 
+python3 hack.py -- to encrypt 
+
+python3 decrypted.py -- to decrypt
