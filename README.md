@@ -1,36 +1,30 @@
-# README: Ransomware 
+# README: Ransomware-Projekt - Achtung und Warnung   -- English see below
 
-IMPORTANT: Read and Proceed at Your Own Risk
+Dieses Dokument enthält Informationen zu einem Ransomware-Projekt, das nur zu Bildungszwecken dient. Es wurde von mir, dem Autor, entwickelt und basiert auf YouTube-Anleitungen. Es ist wichtig zu betonen, dass der Einsatz von Ransomware illegal ist und schwerwiegende Konsequenzen haben kann. Bitte verwenden Sie diese Informationen verantwortungsbewusst und nur in einer virtuellen Umgebung, die speziell für Schulungszwecke eingerichtet wurde.
 
-This document provides information about ransomware for educational purposes only. It is essential to exercise extreme caution and adhere to legal and ethical guidelines when studying or experimenting with ransomware or any other form of malicious software. Unauthorized use, distribution, or engagement in any illegal activities related to ransomware is strictly prohibited.
+## Warnungen und Haftungsausschluss
 
-## 1. What is Ransomware?
+Die Verwendung von Ransomware ist illegal. Das unerlaubte Zugreifen auf Computersysteme oder das Verschlüsseln von Dateien ohne die Zustimmung des Eigentümers ist strafbar.
+Dieses Projekt sollte ausschließlich zu Bildungszwecken genutzt werden. Es dient dazu, das Verständnis für die Funktionsweise von Ransomware zu verbessern und Sicherheitsmaßnahmen zu entwickeln, um sich dagegen zu schützen.
+Der Autor dieses Projekts übernimmt keine Verantwortung für den Missbrauch der bereitgestellten Informationen. Jeder, der diese Informationen verwendet, trägt die volle Verantwortung für sein Handeln.
+Es wird dringend empfohlen, dieses Projekt nur in einer isolierten virtuellen Umgebung zu testen. Die Verwendung in einem echten Netzwerk oder auf realen Systemen kann zu erheblichen Schäden führen.
+Das Testen von Ransomware kann dazu führen, dass Dateien unwiederbringlich verloren gehen oder Systeme beschädigt werden. Stellen Sie sicher, dass Sie über entsprechende Sicherungskopien verfügen und das Risiko für andere Systeme minimieren.
+Bitte beachten Sie, dass es illegal ist, Ransomware in irgendeiner Form zu verbreiten, einzusetzen oder andere Personen damit zu schädigen. Der Gebrauch von Ransomware sollte streng auf legale Schulungszwecke beschränkt bleiben.
 
-Ransomware is a type of malicious software designed to encrypt files on a victim's computer or network, rendering them inaccessible until a ransom is paid. It is important to note that creating, distributing, or using ransomware without proper authorization is illegal and unethical.
+Der Autor dieses README-Dokuments und des Ransomware-Projekts distanziert sich ausdrücklich von jeder Art von illegaler oder schädlicher Nutzung dieser Informationen.
 
-## 2. Educational Purposes Only
 
-This document serves solely for educational purposes, aiming to raise awareness and enhance understanding of ransomware. It is crucial to approach this information responsibly and refrain from engaging in any harmful activities. Any actions taken based on this knowledge are solely the responsibility of the individual(s) involved.
+## English version Readme for Ransomware - Use at Your Own Risk - Warning
 
-## 3. Risks and Consequences
+This document contains information about a ransomware project intended for educational purposes only. It has been developed by me, the author, based on YouTube tutorials. It is important to emphasize that the use of ransomware is illegal and can have serious consequences. Please use this information responsibly and only in a virtual environment specifically set up for training purposes.
 
-Using or experimenting with ransomware can have severe legal, financial, and ethical consequences. Unauthorized use can lead to criminal charges, including but not limited to unauthorized access, data theft, and extortion. Moreover, engaging in such activities can cause harm to innocent individuals and organizations, leading to financial losses, reputation damage, and potential legal actions.
+## Warnings and Disclaimer
 
-## 4. Ethical Guidelines
+The use of ransomware is illegal. Unauthorized access to computer systems or encrypting files without the owner's consent is a criminal offense.
+This project should be used solely for educational purposes. Its purpose is to enhance understanding of ransomware operations and develop security measures to protect against it.
+The author of this project assumes no responsibility for the misuse of the provided information. Anyone who uses this information does so at their own risk and takes full responsibility for their actions.
+It is strongly recommended to test this project only in an isolated virtual environment. Using it on a real network or actual systems can cause significant damage.
+Testing ransomware may result in permanent loss of files or damage to systems. Ensure that you have proper backups and minimize the risk to other systems.
+Please note that it is illegal to distribute, deploy, or harm others using ransomware in any form. The use of ransomware should strictly remain limited to legal training purposes.
 
-It is essential to prioritize ethical considerations and adhere to legal frameworks when studying or researching ransomware. Always obtain proper authorization from relevant parties before conducting any experiments, and ensure compliance with all applicable laws and regulations. Engaging in responsible disclosure and reporting any vulnerabilities or findings to the appropriate authorities is crucial.
-
-## 5. Virtual Platforms and Precautions
-
-If you choose to study ransomware in a controlled environment, it is strongly advised to use virtual platforms or isolated systems. Virtualization provides a safer way to understand and analyze the behavior of ransomware without exposing real systems or data to potential harm. Remember to strictly follow best practices for virtual machine setups and take necessary precautions to prevent accidental infections or unintended consequences.
-
-## Disclaimer:
-
-The author(s) of this document, OpenAI, and its affiliates assume no responsibility or liability for any actions, damages, or consequences resulting from the misuse, misinterpretation, or illegal use of the information provided herein. Users should exercise caution, act responsibly, and respect legal and ethical boundaries when dealing with ransomware or any other form of malicious software.
-
-Remember, knowledge about ransomware should be used to protect and secure computer systems, not to compromise or harm them. Stay informed, stay safe, and prioritize ethical behavior in all your endeavors.
-
-## How to run? 
-python3 hack.py -- to encrypt
-
-python3 decrypted.py -- to decrypt
+The author of this README document and the ransomware project explicitly disclaims any responsibility for any illegal or malicious use of this information.
