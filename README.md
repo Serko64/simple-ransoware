@@ -1,4 +1,6 @@
-# README: Ransomware-Projekt - Achtung und Warnung   -- English see below
+# README: Ransomware-Projekt
+
+## Achtung und Warnung  -- English see below
 
 Dieses Dokument enthält Informationen zu einem Ransomware-Projekt, das nur zu Bildungszwecken dient. Es wurde von mir, dem Autor, entwickelt und basiert auf YouTube-Anleitungen. Es ist wichtig zu betonen, dass der Einsatz von Ransomware illegal ist und schwerwiegende Konsequenzen haben kann. Bitte verwenden Sie diese Informationen verantwortungsbewusst und nur in einer virtuellen Umgebung, die speziell für Schulungszwecke eingerichtet wurde.
 
@@ -13,8 +15,9 @@ Bitte beachten Sie, dass es illegal ist, Ransomware in irgendeiner Form zu verbr
 
 Der Autor dieses README-Dokuments und des Ransomware-Projekts distanziert sich ausdrücklich von jeder Art von illegaler oder schädlicher Nutzung dieser Informationen.
 
+## English version
 
-## English version Readme for Ransomware - Use at Your Own Risk - Warning
+## Readme for Ransomware - Use at Your Own Risk - Warning
 
 This document contains information about a ransomware project intended for educational purposes only. It has been developed by me, the author, based on YouTube tutorials. It is important to emphasize that the use of ransomware is illegal and can have serious consequences. Please use this information responsibly and only in a virtual environment specifically set up for training purposes.
 
